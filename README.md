@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! Eu sou Adrian Guilherme 👋
 
-<!--
-**Adrian08tr/Adrian08Tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software.
 
-Here are some ideas to get you started:
+💻 Atualmente, estou aprendendo programação e desenvolvendo minha base em tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 O que estou estudando
+- Lógica de programação
+- Fundamentos de desenvolvimento de software
+- Python
+- Git e GitHub
+
+## 🚀 Meus objetivos
+- Desenvolver projetos práticos
+- Evoluir minhas habilidades de programação
+- Construir minha carreira na área de tecnologia
+
+## 🔗 Onde me encontrar
+[LinkedIn](https://www.linkedin.com/in/adrian-guilherme-9851913b8)
+
+---
+
+Compartilhando meu aprendizado e evoluindo um passo de cada vez.
