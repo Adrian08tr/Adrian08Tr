@@ -1,23 +1,40 @@
-# Olá! Eu sou Adrian Guilherme 👋
+<h1 align="center">Adrian Guilherme</h1>
 
-🎓 Estudante de Engenharia de Software.
+<h3 align="center">🎓 Estudante de Engenharia de Software</h3>
 
-💻 Atualmente, estou aprendendo programação e desenvolvendo minha base em tecnologia.
-
-## 📚 O que estou estudando
-- Lógica de programação
-- Fundamentos de desenvolvimento de software
-- Python
-- Git e GitHub
-
-## 🚀 Meus objetivos
-- Desenvolver projetos práticos
-- Evoluir minhas habilidades de programação
-- Construir minha carreira na área de tecnologia
-
-## 🔗 Onde me encontrar
-[LinkedIn](https://www.linkedin.com/in/adrian-guilherme-9851913b8)
+<p align="center">
+  Aprendendo programação, explorando tecnologia e construindo projetos na prática.
+</p>
 
 ---
 
-Compartilhando meu aprendizado e evoluindo um passo de cada vez.
+## 💻 Sobre mim
+
+- 🎓 Estudante de Engenharia de Software na UNICID
+- 📚 Desenvolvendo minha base em lógica de programação
+- 🐍 Estudando Python e fundamentos de desenvolvimento
+- 🛠️ Aprendendo a utilizar Git e GitHub
+- 🚀 Compartilhando minha evolução por meio de estudos e projetos
+
+## 🎯 Foco atual
+
+```text
+Lógica de programação  →  Fundamentos
+Python                 →  Prática
+Git e GitHub           →  Versionamento
+Projetos               →  Aprendizado contínuo
+```
+
+## 🔗 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/adrian-guilherme-9851913b8">
+    LinkedIn
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Um passo de cada vez, evoluindo através da prática.</i>
+</p>
